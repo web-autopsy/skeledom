@@ -1,0 +1,22 @@
+{
+  "name": "skeledom",
+  "version": "0.1.0",
+  "description": "A bare-bones (skeleton), extendable, modular HTML parser.",
+  "main": "lib/index.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "parser",
+    "tokenizer",
+    "handler",
+    "tree"
+  ],
+  "author": "0xKhedr",
+  "license": "ISC"
+}
